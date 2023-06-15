@@ -1,1 +1,23 @@
-/* Write your CSS here */
+.config-container {
+  background-color: #475569;
+  padding: 8px 30px;
+}
+.config-heading {
+  margin-top: 0;
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.checkbox-container {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+.input {
+  height: 16px;
+  width: 16px;
+  margin-right: 8px;
+}
+.label {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
