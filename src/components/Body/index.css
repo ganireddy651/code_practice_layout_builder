@@ -1,5 +1,6 @@
 .body-container {
   display: flex;
+  height: 100vh;
 }
 .left-navbar-container {
   background-color: #e2e8f0;
@@ -7,6 +8,7 @@
   height: 350px;
   width: 300px;
   padding: 20px;
+  text-align: left;
   margin-right: 8px;
 }
 .left-nav-heading {
@@ -28,6 +30,7 @@
   height: 350px;
   width: 300px;
   padding: 20px;
+  text-align: right;
   margin-left: 8px;
 }
 .right-navbar-ad-container {
